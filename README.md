@@ -33,7 +33,7 @@
 <br />
 
 
-<img align="left" alt="Rakib544 GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Rakib544&show_icons=true&hide_border=true&theme=vue-dark" />
+![Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakib544&show_icons=true&theme=radical)
 
 <br />
 <br />
