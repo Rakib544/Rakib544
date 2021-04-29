@@ -33,7 +33,7 @@
 <br />
 
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Rakib544 GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Rakib544&show_icons=true&hide_border=true" />
 
 
 [website]: https://codeSTACKr.com
