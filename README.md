@@ -35,6 +35,12 @@
 
 <img align="left" alt="Rakib544 GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Rakib544&show_icons=true&hide_border=true&theme=vue-dark" />
 
+<br />
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib544&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [website]: https://codeSTACKr.com
 [linkedin]: https://linkedin.com/in/codeSTACKr
