@@ -50,7 +50,7 @@ Tools:
 
 <p align="center">
  <a href="https://rakib-portfolios.netlify.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Portfolio_https://rakib_portfolios.netlify.app-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/dev-rakib/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@devrakib-
+<a href="https://www.linkedin.com/in/dev-rakib/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@dev-rakib-
  blue?style=flat&logo=linkedin"></a>
 <a href="mailto:md.rakib10122003@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-md.rakib10122003@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
