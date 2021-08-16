@@ -3,8 +3,8 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Borhan Uddin](https://borhan-uddin-portfolio.web.app/)
-> Full Stack Web Developer (MERN)
+### Hi there 👋 I'm [Rakib](https://rakib-portfolios.netlify.app/)
+> Frontend Web Developer
 
 <div>
  <p>
@@ -24,7 +24,6 @@ Comfortable:
 <a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="reactrouter">
 <a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"></a>
 </a>
-<a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"></a>
 </p>
 
 Familiar:
@@ -32,7 +31,6 @@ Familiar:
 <a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="node"></a>
 <a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"></a>
 <a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo"></a>
-<a href="https://github.com/borhanshuvo"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"></a>
 </p>
 
 Tools:
@@ -46,7 +44,7 @@ Tools:
 
 ### Github Stats
 
-[![Borhan Uddin GitHub Stats](https://github-readme-stats.vercel.app/api?username=borhanshuvo&show_icons=true&count_private=true)](https://github.com/borhanshuvo)
+[![Rakib GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakib544&show_icons=true&count_private=true)](https://github.com/Rakib544)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
