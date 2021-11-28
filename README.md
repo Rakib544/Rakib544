@@ -5,6 +5,9 @@
 <div align="center" width="50">
 
 <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+  <p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=Rakib544&color=brightgreen" alt="watching_count" />
+ </p>
 
 </div>
 
@@ -35,7 +38,6 @@ or <a href="mailto:md.rakib10122003@gmail.com"><b>email</b></a> me
 
   <a target="_blank" href="https://www.linkedin.com/in/dev-rakib">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.facebook.com/profile.php?id=100018966190023">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
-   <a target="_blank" href="https://dev.to/rakib544"D​�E​�V​�.​�T​�O</a> ●
 
 <a href="https://www.linkedin.com/in/dev-rakib" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/profile.php?id=100018966190023" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
