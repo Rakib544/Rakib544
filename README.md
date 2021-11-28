@@ -11,9 +11,9 @@
   
   <p align="center">
 <img src="https://img.shields.io/badge/Age-21-blue" />
-  <img src="https://img.shields.io/badge/Focus-Frontend Development-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Dhaka-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Bangla-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Frontend Development-blue" />
+  <img src="https://img.shields.io/badge/Lives-Dhaka, Bangladesh-blue" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Bangla-blue" />
 </p>
 
 </div>
