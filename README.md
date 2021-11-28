@@ -42,8 +42,8 @@ or <a href="mailto:md.rakib10122003@gmail.com"><b>email</b></a> me
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rakib544&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Rakib" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Rakib544&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rakib544&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rakib" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Rakib544&include_all_commits=true&count_private=true&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 <div align="center">
 
@@ -51,11 +51,6 @@ or <a href="mailto:md.rakib10122003@gmail.com"><b>email</b></a> me
 
 </br>
 </br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-
----
-[![HitCount](http://hits.dwyl.com/Rakib544/Rakib544.svg)](http://hits.dwyl.com/Rakib544/Rakib544)
 
 <i>Follow me around the web:</i><br>
 
