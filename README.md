@@ -5,9 +5,16 @@
 <div align="center" width="50">
 
 <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-  <p align="left"> 
+<!--   <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Rakib544&color=brightgreen" alt="watching_count" />
- </p>
+ </p> -->
+  
+  <p align="center">
+<img src="https://img.shields.io/badge/Age-21-blue" />
+  <img src="https://img.shields.io/badge/Focus-Frontend Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Dhaka-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Bangla-brightgreen" />
+</p>
 
 </div>
 
