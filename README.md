@@ -1,5 +1,5 @@
 <div align="center">
- <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
+ <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png" height="100px"></p>
  <br />
  </br />
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
@@ -33,13 +33,14 @@ or <a href="mailto:md.rakib10122003@gmail.com"><b>email</b></a> me
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently Developing projects for **my personal portfolio**<br>
-✔ I’m currently learning about **GraphQL, Next.js, Jest**🥰<br>
+✔ I’m currently learning about **GraphQL, Next.js, Typescript and Jest**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
 
-
+<i>
 🛠 &nbsp;Tech Stack
+</i>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
@@ -76,7 +77,9 @@ or <a href="mailto:md.rakib10122003@gmail.com"><b>email</b></a> me
 <img src="https://github-profile-trophy.vercel.app/?username=Rakib544&theme=juicyfresh&no-bg=true" />
 </div>
 
+<i>
 :link: &nbsp;Connect with me
+</i>
 
 <p align="center">
 <a href="http://rakib-me.vercel.app/"><img src="https://img.shields.io/badge/-Rakib.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
