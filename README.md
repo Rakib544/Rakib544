@@ -42,8 +42,6 @@ or <a href="mailto:md.rakib10122003@gmail.com"><b>email</b></a> me
 
 </div>
 
-[🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/dev-rakib) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/profile.php?id=100018966190023)
-
 <!--
 **ABSphreak/ABSphreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
