@@ -8,6 +8,7 @@
 <!--   <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Rakib544&color=brightgreen" alt="watching_count" />
  </p> -->
+ <br><br>
   
   <p align="center">
 <img src="https://img.shields.io/badge/Age-21-blue" />
@@ -28,6 +29,15 @@ or <a href="mailto:md.rakib10122003@gmail.com"><b>email</b></a> me
 <i>Happy Coding!</i> 😊
 
 </div>
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+
+✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+✔ I’m currently Developing projects for **my personal portfolio**<br>
+✔ I’m currently learning about **GraphQL, Next.js, Jest**🥰<br>
+✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
+✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
 
 <div align="center">
 
