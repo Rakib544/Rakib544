@@ -1,15 +1,12 @@
 <div align="center">
+ <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
+ <br />
+ </br />
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
-<!--  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> -->
  </h2>
 </div>
 
 <div align="center" width="50">
-
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-<!--   <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=Rakib544&color=brightgreen" alt="watching_count" />
- </p> -->
  <br><br>
   
   <p align="center">
@@ -42,7 +39,7 @@ or <a href="mailto:md.rakib10122003@gmail.com"><b>email</b></a> me
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
 
 
-## 🛠 &nbsp;Tech Stack
+🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
@@ -79,15 +76,7 @@ or <a href="mailto:md.rakib10122003@gmail.com"><b>email</b></a> me
 <img src="https://github-profile-trophy.vercel.app/?username=Rakib544&theme=juicyfresh&no-bg=true" />
 </div>
 
-<!-- <i>Follow me around the web:</i><br>
-
-  <a target="_blank" href="https://www.linkedin.com/in/dev-rakib">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.facebook.com/profile.php?id=100018966190023">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a>
-
-<a href="https://www.linkedin.com/in/dev-rakib" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.facebook.com/profile.php?id=100018966190023" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://dev.to/rakib544" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a> -->
-### :link: &nbsp;Connect with me
+:link: &nbsp;Connect with me
 
 <p align="center">
 <a href="http://rakib-me.vercel.app/"><img src="https://img.shields.io/badge/-Rakib.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
