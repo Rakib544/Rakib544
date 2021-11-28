@@ -45,8 +45,8 @@ or <a href="mailto:md.rakib10122003@gmail.com"><b>email</b></a> me
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react.js)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
@@ -79,26 +79,22 @@ or <a href="mailto:md.rakib10122003@gmail.com"><b>email</b></a> me
 <img src="https://github-profile-trophy.vercel.app/?username=Rakib544&theme=juicyfresh&no-bg=true" />
 </div>
 
-<i>Follow me around the web:</i><br>
+<!-- <i>Follow me around the web:</i><br>
 
   <a target="_blank" href="https://www.linkedin.com/in/dev-rakib">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.facebook.com/profile.php?id=100018966190023">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
+  <a target="_blank" href="https://www.facebook.com/profile.php?id=100018966190023">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a>
 
 <a href="https://www.linkedin.com/in/dev-rakib" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/profile.php?id=100018966190023" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://dev.to/rakib544" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="https://dev.to/rakib544" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a> -->
+### :link: &nbsp;Connect with me
+
+<p align="center">
+<a href="http://rakib-me.vercel.app/"><img src="https://img.shields.io/badge/-Rakib.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/dev-rakib"><img src="https://img.shields.io/badge/-Rakib-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:md.rakib10122003@gmail.com"><img src="https://img.shields.io/badge/-md.rakib10122003@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/md_rakib10122003"><img src="https://img.shields.io/badge/-Md Rakib-FFA116?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</p>
 
 </div>
 
-<!--
-**ABSphreak/ABSphreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
