@@ -7,11 +7,8 @@
 </div>
 
 <div align="center" width="50">
- <br><br>
-
- <h1 align="center">
-  ## Hello, I am **Rakib**
- </h1>
+ <br>
+## Hello, I am **Rakib**
   
   <p align="center">
 <img src="https://img.shields.io/badge/Age-21-blue" />
