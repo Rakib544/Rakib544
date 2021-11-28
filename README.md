@@ -33,7 +33,7 @@ or <a href="mailto:md.rakib10122003@gmail.com"><b>email</b></a> me
 
 <i>Follow me around the web:</i><br>
 
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/dev-rakib">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
+  <a target="_blank" href="https://www.linkedin.com/in/dev-rakib">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.facebook.com/profile.php?id=100018966190023">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
 
 <a href="https://www.linkedin.com/in/dev-rakib" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -42,7 +42,7 @@ or <a href="mailto:md.rakib10122003@gmail.com"><b>email</b></a> me
 
 </div>
 
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/dev-rakib) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/profile.php?id=100018966190023) -->
+[🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/dev-rakib) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/profile.php?id=100018966190023)
 
 <!--
 **ABSphreak/ABSphreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
