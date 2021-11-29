@@ -8,7 +8,7 @@
 
 <div align="center" width="50">
  <br>
- <h2><b>Hey, I am Rakib</b></h2>
+ <h2><b>𝑯𝒆𝒚, 𝑰 𝒂𝒎 𝑹𝒂𝒌𝒊𝒃</b></h2>
   
   <p align="center">
 <img src="https://img.shields.io/badge/Age-21-blue" />
@@ -43,7 +43,8 @@ or <a href="mailto:md.rakib10122003@gmail.com"><b>email</b></a> me
 🛠 &nbsp;Tech Stack
 </i>
 <br />
-
+<br />
+<br />
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react.js)&nbsp;
