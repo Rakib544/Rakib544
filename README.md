@@ -44,7 +44,7 @@ or <a href="mailto:md.rakib10122003@gmail.com"><b>email</b></a> me
 </i>
 <br />
 <br />
-<br />
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react.js)&nbsp;
