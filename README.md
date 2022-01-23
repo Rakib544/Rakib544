@@ -35,7 +35,7 @@ or <a href="mailto:md.rakib10122003@gmail.com"><b>email</b></a> me
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently Developing projects for **my personal portfolio**<br>
 ✔ I’m currently learning about **GraphQL, Next.js, Typescript and Jest**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
+✔ I’m looking to collaborate with any **Open - Source web development projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
 
