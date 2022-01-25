@@ -11,7 +11,7 @@
  <h2><b>𝑯𝒆𝒚, 𝑰 𝒂𝒎 𝑹𝒂𝒌𝒊𝒃</b></h2>
   
   <p align="center">
-<img src="https://img.shields.io/badge/Age-21-blue" />
+<img src="https://img.shields.io/badge/Age-20-blue" />
   <img src="https://img.shields.io/badge/Focus-Frontend Development-blue" />
   <img src="https://img.shields.io/badge/Lives-Dhaka, Bangladesh-blue" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Bangla-blue" />
