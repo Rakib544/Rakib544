@@ -40,7 +40,7 @@ or <a href="mailto:md.rakib10122003@gmail.com"><b>email</b></a> me
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
 
 <i>
-🛠 &nbsp;Tech Stacks
+🛠 &nbsp;Tech Stackss
 </i>
 <br />
 <br />
