@@ -81,7 +81,7 @@ or <a href="mailto:md.rakib10122003@gmail.com"><b>email</b></a> me
 </div>
 
 <i>
-:link: &nbsp;Connect with me!!!
+:link: &nbsp;Connect with me!!
 </i>
 
 <p align="center">
