@@ -8,7 +8,7 @@
 
 <div align="center" width="50">
  <br>
- <h2><b>𝑯𝒆𝒚, 𝑰 𝒂𝒎 𝑹𝒂𝒌𝒊𝒃</b></h2>
+ <h2><b>𝑰 𝒂𝒎 𝑹𝒂𝒌𝒊𝒃</b></h2>
   
   <p align="center">
 <img src="https://img.shields.io/badge/Age-23-blue" />
